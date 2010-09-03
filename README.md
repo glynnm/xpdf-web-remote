@@ -1,6 +1,6 @@
 # Xpdf Web Remote
 
-Prev/Next buttons for Xpdf as a web page formatted for iPhone.
+Prev/Next buttons for Xpdf as a web page formatted for a smartphone (eg iPhone).
 
 ## Build
 
@@ -10,4 +10,4 @@ Use (Leiginton)[http://github.com/technomancy/leiningen]
 
 Xpdf -remote shared <pdf> 
 
-lein run
+lein repl
