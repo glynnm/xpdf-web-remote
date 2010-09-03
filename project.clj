@@ -5,4 +5,5 @@
                  [compojure "0.4.1"]
                  [ring/ring-jetty-adapter "0.2.5"]
                  [ring/ring-devel "0.2.5"]]
+  :repl-init-script "script/run.clj"
   :main xpdf-web-remote.core)
